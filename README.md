@@ -24,5 +24,5 @@ https://rebag.com - website that sells used luxury handbags
 ## Tools Used 
 Selenium, BeautifulSoup, Python, Pandas, Matplotlib, Seaborn, Numpy, Sklearn
 
-## Possible impacts of your project
+## Possible impact of my project
 Recommendation for this website or similar one about sale price for new items.
