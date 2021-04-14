@@ -1,7 +1,5 @@
-# Project2
+# Resale price predictor on designer handbags
 
-## Project Title
- Resale price predictor on designer handbags
 
 ## Description
 To see which feautures resale price depends on, predict the price for new items
